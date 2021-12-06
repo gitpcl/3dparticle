@@ -1,3 +1,11 @@
+<h1 align="center">
+    <img  src=".github/3dparticle.gif" alt="3D Particle Demo" width="100%" />
+</h1>
+
+## :computer: About the project
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). COVID-19 Tracker using React, Charts.JS and Material UI.
+
 # 3d-particles
 *A starter repository from the Awwwards workshop class "Impress everyone with a 3D particle scene starting from bad models"*
 
